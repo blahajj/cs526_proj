@@ -1,1 +1,4 @@
 datasets/lit_nonderiv.csv
+datasets/insider_deriv.csv
+datasets/insider_nonderiv.csv
+datasets/insider_trading.db
